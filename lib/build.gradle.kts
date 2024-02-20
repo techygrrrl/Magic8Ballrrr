@@ -16,7 +16,7 @@ plugins {
     // Apply the java-library plugin for API and implementation separation.
     `java-library`
 
-    id("maven-publish")
+    `maven-publish`
 
     id("org.jetbrains.dokka") version "1.9.10"
 }
@@ -72,15 +72,17 @@ tasks.dokkaHtml {
     outputDirectory.set(buildDir.resolve("docs"))
 }
 
-val sourcesJar by tasks.registering(Jar::class) {
-    from(sourceSets.main.get().allSource)
-}
-
 publishing {
+    repositories {
+        maven {
+            name = "Magic8Ballrrr"
+            url = uri("https://github.com/techygrrrl/Magic8Ballrrr")
+        }
+    }
+
     publications {
-        register("mavenJava", MavenPublication::class) {
+        create<MavenPublication>("Magic8Ballrrr") {
             from(components["java"])
-            artifact(sourcesJar.get())
         }
     }
 }
