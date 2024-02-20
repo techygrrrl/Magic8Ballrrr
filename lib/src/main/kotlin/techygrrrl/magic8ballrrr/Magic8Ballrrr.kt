@@ -27,6 +27,7 @@ public class Magic8Ballrrr(
         /**
          * @return [List][Answer]
          */
+        @JvmStatic
         fun defaultAnswers(): List<Answer> = listOf(
             // Good
             Answer.Positive("It is certain"),
