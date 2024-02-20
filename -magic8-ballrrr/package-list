@@ -1,0 +1,27 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:techygrrrl.magic8ballrrr////PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/index.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Negative///PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-negative/index.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Negative/Negative/#kotlin.String#kotlin.String/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-negative/-negative.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Negative/emoji/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-negative/emoji.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Negative/text/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-negative/text.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Neutral///PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-neutral/index.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Neutral/Neutral/#kotlin.String#kotlin.String/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-neutral/-neutral.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Neutral/emoji/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-neutral/emoji.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Neutral/text/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-neutral/text.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Positive///PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-positive/index.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Positive/Positive/#kotlin.String#kotlin.String/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-positive/-positive.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Positive/emoji/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-positive/emoji.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer.Positive/text/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-positive/text.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer///PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/index.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer/Answer/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/-answer.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer/emoji/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/emoji.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer/format/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/format.html
+$dokka.location:techygrrrl.magic8ballrrr/Answer/text/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-answer/text.html
+$dokka.location:techygrrrl.magic8ballrrr/Magic8Ballrrr.Companion///PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-magic8-ballrrr/-companion/index.html
+$dokka.location:techygrrrl.magic8ballrrr/Magic8Ballrrr.Companion/defaultAnswers/#/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-magic8-ballrrr/-companion/default-answers.html
+$dokka.location:techygrrrl.magic8ballrrr/Magic8Ballrrr///PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-magic8-ballrrr/index.html
+$dokka.location:techygrrrl.magic8ballrrr/Magic8Ballrrr/Magic8Ballrrr/#kotlin.collections.List[techygrrrl.magic8ballrrr.Answer]/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-magic8-ballrrr/-magic8-ballrrr.html
+$dokka.location:techygrrrl.magic8ballrrr/Magic8Ballrrr/ask/#kotlin.String/PointingToDeclaration/-magic8-ballrrr/techygrrrl.magic8ballrrr/-magic8-ballrrr/ask.html
+techygrrrl.magic8ballrrr
+
