@@ -52,5 +52,6 @@ To learn more about Jitpack, see their [docs](https://docs.jitpack.io/intro/).
 
 ### Usage
 
-- [Example in unit tests](https://github.com/techygrrrl/Magic8Ballrrr/blob/main/lib/src/test/kotlin/techygrrrl/magic8ballrrr/Magic8BallrrrTest.kt)
+- [Kotlin examples in unit tests](https://github.com/techygrrrl/Magic8Ballrrr/blob/main/lib/src/test/kotlin/techygrrrl/magic8ballrrr/Magic8BallrrrTest.kt)
+- [Java example](https://github.com/techygrrrl/examples/tree/main/magic8-ballrrr)
 - [KDoc class docs](https://techygrrrl.github.io/Magic8Ballrrr/-magic8-ballrrr/techygrrrl.magic8ballrrr)
