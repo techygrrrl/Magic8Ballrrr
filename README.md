@@ -2,6 +2,9 @@
 
 **Magic8Ballrrr** tells you your future!
 
+[![](https://jitpack.io/v/techygrrrl/Magic8Ballrrr.svg)](https://jitpack.io/#techygrrrl/Magic8Ballrrr)
+
+
 ## Features
 
 - Answer positively, negatively, or with a neutral answer
