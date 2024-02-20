@@ -42,17 +42,6 @@ tasks.withType<DokkaTask>().configureEach {
     }
 }
 
-tasks {
-    val sourcesJar by creating(Jar::class) {
-        dependsOn(JavaPlugin.CLASSES_TASK_NAME)
-        from(sourceSets["main"].allSource)
-    }
-
-    artifacts {
-        add("archives", sourcesJar)
-    }
-}
-
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
@@ -77,10 +66,6 @@ dependencies {
 tasks.dokkaHtml {
     moduleName.set("Magic8Ballrrr")
     outputDirectory.set(buildDir.resolve("docs"))
-}
-
-java {
-    withJavadocJar()
 }
 
 publishing {
